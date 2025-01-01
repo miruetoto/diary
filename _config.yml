@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Blog
+title: ""
 
 # Your name to show in the footer
 author: 신록예찬
@@ -22,9 +22,8 @@ author: 신록예찬
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - 신록예찬: "https://miruetoto.github.io/yechan5"
+  Author's home: "https://github.com/guebin"
 
 ################
 # --- Logo --- #
