@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Life with Hyerim, Daho, and Hani
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm just an ordinary person with an extraordinary family:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Daho is my baby, the light of my life
+- Hani is my loyal companion, my beloved dog
+- Hyerim is my partner, my rock, and my heart
 
-What else do you need?
+What more could I ask for?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Everyday moments with Hyerim, Daho, and Hani are what make my life special. Together, we create memories filled with love, laughter, and joy.
